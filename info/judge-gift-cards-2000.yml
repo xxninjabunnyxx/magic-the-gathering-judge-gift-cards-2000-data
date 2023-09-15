@@ -1,0 +1,18 @@
+---
+object: set
+id: '0964514c-cf50-468d-9cf7-a388aff65de9'
+code: g00
+tcgplayer_id: 62
+name: Judge Gift Cards 2000
+uri: https://api.scryfall.com/sets/0964514c-cf50-468d-9cf7-a388aff65de9
+scryfall_uri: https://scryfall.com/sets/g00
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ag00&unique=prints
+released_at: '2000-01-01'
+set_type: promo
+card_count: 2
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: jgp
+block: Judge Gift Cards
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
